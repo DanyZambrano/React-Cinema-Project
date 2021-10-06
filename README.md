@@ -19,3 +19,5 @@ Sentry
 * Run npm install
 * Create an account on https://www.themoviedb.org/ and obtain an API key.
 * Create a .env file in the root of the project and add
+
+repo test (https://github.com/uzochukwueddie/react-cinema-app)
